@@ -49,7 +49,9 @@
     "сanonical-url": "https://codavity.com",
     "uniqCompNum": 10,
     "versionPublish": "4.10.10",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "publishType": "local",
+    "publishPath": "file:///C:/Users/manan/Documents/GitHub/codavity.github.io"
   },
   "pages": {
     "index.html": {
